@@ -150,7 +150,7 @@ resource "oci_containerengine_node_pool" "k8s_node_pool" {
     ocpus         = 1
   }
   node_source_details {
-    image_id    = "	ocid1.image.oc1.eu-paris-1.aaaaaaaagbpwjqiwwzybgsrh6tz3rxi3hzkqx6aswmijqdvspdmybuxd4qkq"
+    image_id    = "ocid1.image.oc1.eu-paris-1.aaaaaaaak6elqqhj63ovtcn5p2bvfsx7r2omdetdxklwqo27fjg3a3n4psua"
     source_type = "image"
   }
   initial_node_labels {
