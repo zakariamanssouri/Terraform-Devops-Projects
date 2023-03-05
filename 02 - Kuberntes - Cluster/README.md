@@ -14,4 +14,4 @@ This project involves using Terraform to deploy a Kubernetes cluster to Oracle C
 - [Kubernetes](https://kubernetes.io/)
 
 ## ✍️ Author <a name = "authors"></a>
-- [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+- [@zakariamanssouri](https://github.com/zakariamanssouri)
